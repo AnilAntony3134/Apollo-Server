@@ -1,3 +1,3 @@
 # Apollo-Test-Server
 
-Graphql
+Graphq
