@@ -10,8 +10,8 @@ import express from 'express';
 import http from 'http';
 import cors from 'cors';
 import bodyParser from 'body-parser';
-// import { typeDefs } from './schema';
-// import { resolvers } from './resolvers';
+import { typeDefs } from './schema';
+import { resolvers } from './resolvers';
 
 interface MyContext {
   token?: String;
