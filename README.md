@@ -1,13 +1,3 @@
 # Apollo-Test-Server
 
 
-
-
-
-
-
-
-
-
-
-
