@@ -25,7 +25,6 @@ export const resolvers = {
         return books.filter((book) => book.branch == parent.branch);
       },
     },
-	
     Book: {
       author(parent){
         return {
